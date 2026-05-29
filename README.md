@@ -20,7 +20,7 @@ from ambient hardware noise and raw acoustic data.
 
 * **Calibrated Sonification:** Bandpasses the incoming signal (15-150 Hz) to strip out room noise and high-frequency hiss, feeding a pure, isolated thump back to the user's headphones.
 
-![pic2](simple)
+![pic2](simple.png)
 
 ## Requirements
 
